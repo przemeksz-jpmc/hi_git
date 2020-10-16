@@ -1,1 +1,3 @@
 Test file
+New line
+Another new line
